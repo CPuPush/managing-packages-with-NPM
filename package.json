@@ -1,6 +1,7 @@
 {
 	"author":"Fori Okto Pakpahan",
 	"name": "fcc-learn-npm-package-json",
+	"description": "build app with NodeJS and ExpressJS with mongodb",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

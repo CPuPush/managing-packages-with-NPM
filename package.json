@@ -3,8 +3,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "build app with NodeJS and ExpressJS with mongodb",
 	"dependencies": {
-		"moment": "2.14.0",
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.26.0"
 	},
 	"keywords": ["freecodecamp", "nodejs", "expressJS"],
 	"license": "ISC",
